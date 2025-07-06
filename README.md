@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Shady Gamal]
+## 👋 Hello, I'm Shady Gamal
 
 🎓 I'm a Computer Science student at **El Shorouk Academy University**, currently in my second year.
 
