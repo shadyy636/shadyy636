@@ -4,9 +4,9 @@
 
 💻 My current focus is on:
 - C# programming
+- Problem Solving
 - UI/UX Design
 - Web Development
-- Databases & Data Analysis
 
 🔍 I'm passionate about building clean, user-friendly digital experiences and exploring the intersection between front-end design and back-end data.
 
