@@ -11,7 +11,7 @@
 🔍 I'm passionate about building clean, user-friendly digital experiences and exploring the intersection between front-end design and back-end data.
 
 🌱 Currently learning: ASP.NET, SQL, and UX principles  
-📫 Let's connect: [(https://www.linkedin.com/in/shady-gamal777/)](#) | [(shadyg821@gmail.com)](#) | [(325254778@sha.edu.eg)](#) 
+📫 Let's connect: [(https://www.linkedin.com/in/shadygamal1/))](#) | [(shadyg821@gmail.com)](#) | [(325254778@sha.edu.eg)](#) 
 
 ---
 
